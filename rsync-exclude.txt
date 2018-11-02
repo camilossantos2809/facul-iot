@@ -1,0 +1,4 @@
+venv
+.vscode
+rsync-exclude.txt
+__pycache__
